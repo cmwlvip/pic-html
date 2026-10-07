@@ -1,0 +1,20 @@
+{
+  "exported_at": "2026-10-07T12:36:32.121Z",
+  "album_count": 2,
+  "photo_count": 11,
+  "albums": [
+    {
+      "id": 593,
+      "title": "album1",
+      "photo_count": 9
+    },
+    {
+      "id": 594,
+      "title": "album2",
+      "photo_count": 2
+    }
+  ],
+  "image_url_count": 33,
+  "format": "file-html",
+  "generated_at": "2026-10-07T12:46:32.534Z"
+}
